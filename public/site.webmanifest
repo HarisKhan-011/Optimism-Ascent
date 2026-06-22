@@ -1,0 +1,17 @@
+{
+  "name": "Optimism For Business & Consulting",
+  "short_name": "Optimism",
+  "description": "Business, financial, and administrative consulting in Saudi Arabia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefcf7",
+  "theme_color": "#0f1b3d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

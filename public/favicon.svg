@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Optimism</title>
+  <rect width="64" height="64" rx="14" fill="#0f1b3d"/>
+  <path d="M32 8 55 21v22L32 56 9 43V21Z" fill="none" stroke="#fefcf7" stroke-width="3"/>
+  <path d="m20 40 8-8 7 4 10-14" fill="none" stroke="#c9a24d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="45" cy="22" r="4" fill="#c9a24d"/>
+</svg>
